@@ -1,0 +1,10 @@
+D:\PUBLICACIONES\api_pokemon\Servicios.Core.dll
+D:\PUBLICACIONES\api_pokemon\Servicios.Core.deps.json
+D:\PUBLICACIONES\api_pokemon\Servicios.Core.pdb
+D:\PUBLICACIONES\api_pokemon\AutoMapper.dll
+D:\PUBLICACIONES\api_pokemon\Microsoft.DotNet.PlatformAbstractions.dll
+D:\PUBLICACIONES\api_pokemon\Microsoft.Extensions.DependencyModel.dll
+D:\PUBLICACIONES\api_pokemon\Newtonsoft.Json.dll
+D:\PUBLICACIONES\api_pokemon\NLog.dll
+D:\PUBLICACIONES\api_pokemon\NLog.Extensions.Logging.dll
+D:\PUBLICACIONES\api_pokemon\NLog.Web.AspNetCore.dll
