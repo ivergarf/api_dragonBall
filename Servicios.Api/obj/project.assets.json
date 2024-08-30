@@ -9964,11 +9964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Api\\Servicios.Api.csproj",
+      "projectUniqueName": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Api\\Servicios.Api.csproj",
       "projectName": "Servicios.Api",
-      "projectPath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Api\\Servicios.Api.csproj",
+      "projectPath": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Api\\Servicios.Api.csproj",
       "packagesPath": "C:\\Users\\ivergarf\\.nuget\\packages\\",
-      "outputPath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Api\\obj\\",
+      "outputPath": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9988,11 +9988,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\ACADEMICO\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj": {
-              "projectPath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj"
+            "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj": {
+              "projectPath": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj"
             },
-            "D:\\ACADEMICO\\api_dragonBall\\Servicios.Infrastructure\\Servicios.Infrastructure.csproj": {
-              "projectPath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Infrastructure\\Servicios.Infrastructure.csproj"
+            "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Infrastructure\\Servicios.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Infrastructure\\Servicios.Infrastructure.csproj"
             }
           }
         }

@@ -335,3 +335,15 @@ D:\ACADEMICO\api_dragonBall_Dev2\Servicios.Core\obj\Debug\net6.0\Servicios.Core.
 D:\ACADEMICO\api_dragonBall_Dev2\Servicios.Core\obj\Debug\net6.0\refint\Servicios.Core.dll
 D:\ACADEMICO\api_dragonBall_Dev2\Servicios.Core\obj\Debug\net6.0\Servicios.Core.pdb
 D:\ACADEMICO\api_dragonBall_Dev2\Servicios.Core\obj\Debug\net6.0\ref\Servicios.Core.dll
+C:\Users\ivergarf\Documents\Datos\api_dragonBall\Servicios.Core\bin\Debug\net6.0\Servicios.Core.deps.json
+C:\Users\ivergarf\Documents\Datos\api_dragonBall\Servicios.Core\bin\Debug\net6.0\Servicios.Core.dll
+C:\Users\ivergarf\Documents\Datos\api_dragonBall\Servicios.Core\bin\Debug\net6.0\Servicios.Core.pdb
+C:\Users\ivergarf\Documents\Datos\api_dragonBall\Servicios.Core\obj\Debug\net6.0\Servicios.Core.csproj.AssemblyReference.cache
+C:\Users\ivergarf\Documents\Datos\api_dragonBall\Servicios.Core\obj\Debug\net6.0\Servicios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivergarf\Documents\Datos\api_dragonBall\Servicios.Core\obj\Debug\net6.0\Servicios.Core.AssemblyInfoInputs.cache
+C:\Users\ivergarf\Documents\Datos\api_dragonBall\Servicios.Core\obj\Debug\net6.0\Servicios.Core.AssemblyInfo.cs
+C:\Users\ivergarf\Documents\Datos\api_dragonBall\Servicios.Core\obj\Debug\net6.0\Servicios.Core.csproj.CoreCompileInputs.cache
+C:\Users\ivergarf\Documents\Datos\api_dragonBall\Servicios.Core\obj\Debug\net6.0\Servicios.Core.dll
+C:\Users\ivergarf\Documents\Datos\api_dragonBall\Servicios.Core\obj\Debug\net6.0\refint\Servicios.Core.dll
+C:\Users\ivergarf\Documents\Datos\api_dragonBall\Servicios.Core\obj\Debug\net6.0\Servicios.Core.pdb
+C:\Users\ivergarf\Documents\Datos\api_dragonBall\Servicios.Core\obj\Debug\net6.0\ref\Servicios.Core.dll

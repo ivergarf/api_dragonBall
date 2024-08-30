@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zUUE1MCYZ6FDJM1JVOaNguwxRzhBriGuXTBk5rBjQpVT1KpQRMY0vAkqgMiF20oY7Soj/cVJnpKg621zoX/Trg==",
+  "dgSpecHash": "8UfUhjQMo7J1/ZyT8qvtchqh1hMEPrs7pyQBMXDU+1eqYKiBISZPlwzE1Nxp4fxhwuCMs12aG+77fYDN5TvZEw==",
   "success": true,
-  "projectFilePath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Infrastructure\\Servicios.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Infrastructure\\Servicios.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivergarf\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\ivergarf\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",

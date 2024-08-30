@@ -4406,11 +4406,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj",
+      "projectUniqueName": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj",
       "projectName": "Servicios.Core",
-      "projectPath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj",
+      "projectPath": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj",
       "packagesPath": "C:\\Users\\ivergarf\\.nuget\\packages\\",
-      "outputPath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Core\\obj\\",
+      "outputPath": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -49,7 +49,7 @@ namespace Servicios.Api.Controllers
                 }
 
                 var jsonSalida = JsonConvert.SerializeObject(response);
-                _logger.LogInformation("API: /api/v1/v2dragonball/ Entrada: {Entrada}, Respuesta: {Respuesta}, Tiempo: {Tiempo} ms", jsonEntrada, jsonSalida, time.ElapsedMilliseconds);
+                _logger.LogInformation("API: /api/v1/dragonball/ Entrada: {Entrada}, Respuesta: {Respuesta}, Tiempo: {Tiempo} ms", jsonEntrada, jsonSalida, time.ElapsedMilliseconds);
 
                 return Ok(response);
 
@@ -57,7 +57,7 @@ namespace Servicios.Api.Controllers
             catch (Exception ex)
             {
                 time.Stop();
-                _logger.LogError("API: /api/v1/v2dragonball/ Entrada: {Entrada}, Respuesta: {Respuesta}, Tiempo: {Tiempo} ms", jsonEntrada, ex.Message, time.ElapsedMilliseconds);
+                _logger.LogError("API: /api/v1/dragonball/ Entrada: {Entrada}, Respuesta: {Respuesta}, Tiempo: {Tiempo} ms", jsonEntrada, ex.Message, time.ElapsedMilliseconds);
                 throw new BusinessException(ex.Message.ToString());
             }
 

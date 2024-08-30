@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8WqhfqzhETsCSgq6Fuygk9z2CROXF2v3IN02NnYdMromq4DsH9l6+ItU88Ao2eWd+4YkJr8wdbc/0JbiNZ9sfQ==",
+  "dgSpecHash": "hBu7MHOQISfwFsPpUqLyaMmKQl7dNY5/Lg5hwws4r4IjAuShhye8WDh0zBmRJ0B9AIAY5MU2UgY2rTrf67PihQ==",
   "success": true,
-  "projectFilePath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj",
+  "projectFilePath": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivergarf\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\ivergarf\\.nuget\\packages\\jquery\\1.11.2\\jquery.1.11.2.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HuBpLr0wsDdXQR/VcO7nxqh5sLrBD+ycSFaWHf2/NBhzVtRSDdkxKr3RnTFLpYm97t+zi+0jJF8hPWUCs3hvZg==",
+  "dgSpecHash": "eo+UcY9Nl3pSZPZganrWHZs7PQIokJuBpFZXUQp+B6U0w738yl4B/Hfn4Ddxen889y60hj7YnBXb1I/4Leirww==",
   "success": true,
-  "projectFilePath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Api\\Servicios.Api.csproj",
+  "projectFilePath": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Api\\Servicios.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivergarf\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\ivergarf\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

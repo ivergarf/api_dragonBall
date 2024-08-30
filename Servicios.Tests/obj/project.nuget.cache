@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kuzqZm39l4Gro/8C8VHe8eeDD3ML2VJvk3pcxqbUsWIK3ukHWVYsRI3Z8PbJqVapZs7OXi0yC2Dzj6S4aVOj/Q==",
+  "dgSpecHash": "+upKsCXxcLsHQDPhd7W39xHhNuGKB0vfOaoZJSt9Gj8Stft3moYiHz+RCyeKKhZNGR/FqpFhCaDNnlHOrvyGZg==",
   "success": true,
-  "projectFilePath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Tests\\Servicios.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Tests\\Servicios.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivergarf\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\ivergarf\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

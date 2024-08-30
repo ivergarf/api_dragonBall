@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ACADEMICO\\api_dragonBall\\Servicios.Tests\\Servicios.Tests.csproj": {}
+    "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Tests\\Servicios.Tests.csproj": {}
   },
   "projects": {
-    "D:\\ACADEMICO\\api_dragonBall\\Servicios.Tests\\Servicios.Tests.csproj": {
+    "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Tests\\Servicios.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Tests\\Servicios.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Tests\\Servicios.Tests.csproj",
         "projectName": "Servicios.Tests",
-        "projectPath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Tests\\Servicios.Tests.csproj",
+        "projectPath": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Tests\\Servicios.Tests.csproj",
         "packagesPath": "C:\\Users\\ivergarf\\.nuget\\packages\\",
-        "outputPath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Tests\\obj\\",
+        "outputPath": "C:\\Users\\ivergarf\\Documents\\Datos\\api_dragonBall\\Servicios.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
