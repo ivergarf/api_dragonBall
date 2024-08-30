@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ACADEMICO\\api_dragonBall_Dev2\\Servicios.Core\\Servicios.Core.csproj": {}
+    "D:\\ACADEMICO\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj": {}
   },
   "projects": {
-    "D:\\ACADEMICO\\api_dragonBall_Dev2\\Servicios.Core\\Servicios.Core.csproj": {
+    "D:\\ACADEMICO\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ACADEMICO\\api_dragonBall_Dev2\\Servicios.Core\\Servicios.Core.csproj",
+        "projectUniqueName": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj",
         "projectName": "Servicios.Core",
-        "projectPath": "D:\\ACADEMICO\\api_dragonBall_Dev2\\Servicios.Core\\Servicios.Core.csproj",
+        "projectPath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Core\\Servicios.Core.csproj",
         "packagesPath": "C:\\Users\\ivergarf\\.nuget\\packages\\",
-        "outputPath": "D:\\ACADEMICO\\api_dragonBall_Dev2\\Servicios.Core\\obj\\",
+        "outputPath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

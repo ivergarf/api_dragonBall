@@ -9150,11 +9150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ACADEMICO\\api_dragonBall_Dev2\\Servicios.Tests\\Servicios.Tests.csproj",
+      "projectUniqueName": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Tests\\Servicios.Tests.csproj",
       "projectName": "Servicios.Tests",
-      "projectPath": "D:\\ACADEMICO\\api_dragonBall_Dev2\\Servicios.Tests\\Servicios.Tests.csproj",
+      "projectPath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Tests\\Servicios.Tests.csproj",
       "packagesPath": "C:\\Users\\ivergarf\\.nuget\\packages\\",
-      "outputPath": "D:\\ACADEMICO\\api_dragonBall_Dev2\\Servicios.Tests\\obj\\",
+      "outputPath": "D:\\ACADEMICO\\api_dragonBall\\Servicios.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
